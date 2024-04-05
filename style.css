@@ -1,0 +1,155 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.img-1{
+    background-image: url("./images/img1.jpg");
+    height: 792px;
+}
+.blk-txt{
+
+}
+.para-1{
+    @media  (min-width:100px){
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 155px;
+    }
+}
+.heading{
+    @media  (min-width:100px){
+    text-align: center;
+    margin-top: 80px;
+    }
+} 
+.para-2{
+    @media  (min-width:100px){
+    text-align: center;
+    margin-top: 88px;
+    text-align-last: inherit;
+    font-size: larger;
+    }
+}
+.lrn-mr{
+    @media  (min-width:100px){
+    text-align: center;
+    margin-top: 69px;
+    }
+}
+.para-3{
+    @media  (min-width:100px){
+    text-align: end;
+    font-weight: 700; 
+    }
+}
+.arw{
+    @media  (min-width:100px){
+    text-align: left;
+    position: relative;
+    bottom: 65px;
+    }
+}
+.arw-img{
+    @media  (min-width:100px){
+    position: absolute;
+    left: 13px;
+    top: 3px; 
+    }
+}
+.line{
+    @media  (min-width:100px){
+    position: absolute;
+    left: 31%;
+    }
+}
+.line-1{
+    @media  (min-width:100px){
+    position: absolute;
+    left: 66%;
+    }
+}
+.div-2{
+    @media  (min-width:100px){
+    background: white;
+    height: 334px;
+    }
+}
+.box-1{
+    @media  (min-width:100px){
+    position: relative;
+    width: 448px;
+    background-color: black;
+    height: 334px;
+}
+}
+.box-2{
+    @media  (min-width:100px){
+    position: absolute;
+    margin-top: -334px;
+    background-color: black;
+    width: 447px;
+    left: 450px;
+    height: 334px;
+    }
+}
+.box-3{
+    @media  (min-width:100px){
+    position: absolute;
+    left: 899px;
+    background-color: black;
+    margin-top: -334px;
+    width: 452px;
+    height: 334px;
+    }
+}
+.head-1{
+    @media  (min-width:100px){
+    font-size: x-large;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 55px;
+    }
+}
+.head1-2{
+    @media  (min-width:100px){
+        
+    }
+    position: absolute;
+    color: white;
+    font-size: large;
+    font-weight: 100;
+    top: 77px;
+    left: 53px;
+    
+}
+.para-4{
+    @media  (min-width:100px){
+    position: absolute;
+    color: white;
+    top: 112px;
+    left: 27px;
+    font-weight: 100;
+    }
+}
+
+.btn-1{
+    @media  (min-width:100px){
+    position: absolute;
+    top: 252px;
+    left: 96px;
+    color: white;
+    font-weight: 700;
+    }
+}
+.div-3{
+    
+}
+.img-3{
+    background-image: url("./images/Task.jpg");
+}
+
+
+
+
